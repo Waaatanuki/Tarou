@@ -2,6 +2,7 @@
   "name": "tarou",
   "type": "module",
   "version": "0.0.1",
+  "description": "GBF Browser Tool",
   "author": "waaatanuki",
   "main": "dist-electron/main/index.js",
   "debug": {
