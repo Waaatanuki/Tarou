@@ -20,5 +20,5 @@
   "references": [
     { "path": "./tsconfig.node.json" }
   ],
-  "include": ["src"]
+  "include": ["src/**/*.ts", "src/**/*.vue", "types/**/*.d.ts"]
 }
